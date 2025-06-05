@@ -1,0 +1,12 @@
+FF1.dat,Réduire alignement,Augmenter alignement
+FF2.dat,Réduire alignement,Réduire cohésion
+FF3.dat,Augmenter alignement,Réduire alignement
+DF1.dat,Réduire cohésion,Augmenter cohésion
+DF2.dat,Augmenter alignement ,Réduire alignement
+DF3.dat,Réduire cohésion,Augmenter alignement
+EF1.dat,Augmenter cohésion,Réduire cohésion
+EF2.dat,Augmenter alignement,Réduire alignement
+EF3.dat,Augmenter cohésion,Augmenter alignement
+SF1.dat,Augmenter cohésion et alignement,Réduire cohésion et augmenter alignement
+SF2.dat,Augmenter alignement,Augmenter cohésion
+SF3.dat,Augmenter cohésion,Augmenter alignement

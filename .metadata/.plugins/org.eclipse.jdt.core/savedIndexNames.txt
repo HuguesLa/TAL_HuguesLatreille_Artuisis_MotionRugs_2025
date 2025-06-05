@@ -1,0 +1,10 @@
+INDEX VERSION 1.134+\\vador-fs\hugues.latreille\Documents\TAL\.metadata\.plugins\org.eclipse.jdt.core
+2766332399.index
+1601237113.index
+3592549356.index
+300953987.index
+1865797976.index
+2677313078.index
+2535489993.index
+667468303.index
+4051940954.index
